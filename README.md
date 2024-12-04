@@ -1,4 +1,4 @@
-TRABAJO DE JS:
+TRABAJO DE JS: "GYMAPP" 
 Miembros: Unai, Sergio, Noe
 
 CRONOGRAMA:
